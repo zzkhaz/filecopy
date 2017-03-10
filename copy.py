@@ -2,8 +2,8 @@
 import os # path manipulation
 import shutil
 
-path0 = 'C:\\Users\\zzkha\\Desktop\\dmkspider'
-path1 = 'C:\\Users\\zzkha\\Desktop\\dmkspider\\dmktxt'
+path0 = ''
+path1 = ''
 
 #遍历某个目录及其子目录下所有文件拷贝到某个目录中
 def copyFiles2(srcPath,dstPath): 
